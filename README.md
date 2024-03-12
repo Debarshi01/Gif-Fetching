@@ -1,3 +1,5 @@
+This is a simple React Project where we fetch the trending Gifs along with which we have a search bar where we can search for the Gifs and also add Gifs to favourites. We can only add upto 5 gifs to favourites and on clickign every gif we will have modal open showing the gif along with the description.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
