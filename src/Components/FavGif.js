@@ -9,6 +9,7 @@ function FavGif({favgif,onDelete,onClick}){
         
         )
     })
+    console.log(favgif)
     return <div >
         <br/>
          <br/>
@@ -17,6 +18,7 @@ function FavGif({favgif,onDelete,onClick}){
          <br/>
          <div className="favourites">
         {renderedGif}
+        Hello
         </div>
     </div>
 }
